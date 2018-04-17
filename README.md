@@ -1,5 +1,4 @@
 <link href="style.css" rel="stylesheet" />
-<script src="main.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" />
 <font face="Raleway">
   <center>
