@@ -9,17 +9,10 @@
       The free, open source search engine.
     </h2>
     <br />
-    <img src="img/win.png" width="75" height="75"/>
-    <br />
-    <button id="downloadserhgithub" onclick="downloadGitHub()">
-      <img src="img/dl.png" width="20" height="20"/>
-      Download Serh via. GitHub
-    </button>
-    <br />
-    <button id="downloadserhdirect" onclick="downloadDirect()">
+    <a href="https://github.com/MatthyPlayz/Serh/archive/master.zip">
       <img src="img/dl.png" width="20" height="20"/>
       Download Serh Direct
-    </button>
+    </a>
   </center>
 <h3>Simplistic</h3>
 <p>The tabbed, regular UI you love.</p>
